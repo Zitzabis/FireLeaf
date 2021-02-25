@@ -1,0 +1,804 @@
+______ __              _                 ___
+|  __//_/             | |               / _/
+| |___ _ _  __ ___    | |    ___   ____| /_
+|  __/| | |/__/ _ \   | |   / _ \ / _  |  _|
+| |   | |  /  ||_|/_  | |___||_|/_||_| | |
+|_|   |_|_|   \____/  |_____\____/\__/||_|
+                -(Fire Leaf)-
+
+**Notes**
+Now, I know some of the sources for the textures could be found else where in the game, but this is just where I first noticed it and chose to extract it. There may also be variations of the same texture. If you can tell me about a location where it's better, I'll take a look.
+
+Anyway, as follows is a full list of where the textures were sourced and what was done with them.
+When I say "with liberty" I mean I had to sort of invent the texture based on the real deal. For example, there are no clear log textures (unless you want a tri-coloured log). So I had to invent a texture to go on it.
+A mashup means that I combined textures to create one that will work in Minecraft.
+If I made an adjustment, I had the basics of the texture copied over but in the porting process, I had to change the texture a bit to make it practical. For example, the wooden door. Originaly, it didn't have a window.
+
+While I say I sourced some of these textures, that doesn't mean they are 100% rips. Instead, there was a lot of colours and component ripping, but with a lot of formatting having to be done to make the texture work in Minecraft.
+
+There are also a lot of custom textures. I'm sorry, it couldn't be helped.
+----------------------------------------------------------------------
+
+**Blocks/GUI/Misc**
+
+Grass Top (Route 1)
+
+Sand (Route 1)
+
+Grass Side (Route 1)
+
+Dirt (Generic dirt recoloured to blend with generic ledge dirt)
+
+Rose (Route 1)
+
+Tall Grass (Route 1)
+
+Oak Log (Route 1 with liberty)
+
+Oak Leaves (Route 1 for basics)
+
+Birch Leaves (Cerulean Cave)
+
+Gravel (Cerulean Cave)
+
+Quartz Block (Dotted Hole)
+
+Snow (Icefall Cave)
+
+Stone (Generic stone)
+
+Bookshelf (Generic School Room)
+
+Painting - 1st row, far left (PokéMart)
+
+Painting - 2nd row, far left (Pokémon Center)
+
+Painting - 2nd row, second from the left (Generic School Room)
+
+Painting - 4th row (Generic School Room)
+
+Sign (Celadon City with liberty)
+
+Bricks (Route 2)
+
+Wooden Door (Route 2 with adjustments)
+
+Painting - 2nd row, third from the left (Outside of Pokémon Center)
+
+Iron Bars (Celadon City)
+
+Iron Door (Celadon City)
+
+Purple Clay (Hardened Clay with colour from Celadon City, Celadon Department Store)
+
+Cyan Clay (Hardened Clay with colour from Celadon City, Celadon Mansion)
+
+Light Blue Clay (Hardened Clay with colour from Celadon City)
+
+Birch Planks (Cerulean City)
+
+Red Wool (Custom Coloured Lime Wool with colours from Standard Entrance Mat)
+
+Purple Wool (Custom Coloured Lime Wool with colours from Rug found in house on Cinnabar Island)
+
+Painting - 1st row, second from the left (Cinnabar Island)
+
+Light Blue Wool (Custom Coloured Lime Wool with colours from Rug found in a building on Cinnabar Island)
+
+Glass (Inspiration from a generic glass table)
+
+Painting - 1st row, third from the left (Cinnabar Island)
+
+Lapis Block (PokeMart)
+
+Yellow Clay (Hardened Clay with colour from Fuchsia City)
+
+Oak Sapling (Fuchsia City)
+
+Cobblestone (Pewter City)
+
+Mossy Cobblestone (Pewter City)
+
+Magenta Clay (Hardened Clay with colour from Pewter City)
+
+Birch Sapling (Generic Pot Plant with liberty)
+
+Spruce Planks (Pewter City)
+
+Stone Bricks (Saffron City)
+
+Water Still (EVERYWHERE!!!)
+
+Water Flow (The default animation sucks... So I took the basic and made it smoother)
+
+Crafting Bench (Table from your home in game)
+
+Iron Block (Standard sheeting for house with liberty)
+
+Red Clay (Hardened Clay with colour from Pallet Town)
+
+Stone Slab (Cerulean City Gym)
+
+Bedrock (Custom)
+
+Pink Clay (Hardened Clay with colour from Pokemon Center roof)
+
+Dead Bush (Adjusted Bush from Celadon City)
+
+Brown Clay (Hardened Clay with colour from Celadon Gym)
+
+Orange Clay (Hardened Clay with colour from Celadon City)
+
+Diamond Block (Cerulean City with shading improvements)
+
+Acacia Planks (Cerulean City)
+
+Chest (Island Two box)
+
+Cracked Stone Brick (Custom texture based on base Stone Brick)
+
+Mossy Stone Brick (Custom texture based on base Stone Brick)
+
+Carved Stone Brick (Custom texture based on base Stone Brick)
+
+Emerald Block (Cinnabar Island)
+
+White Clay (Hardened Clay with colour from Adjusted Pokemon Center floor)
+
+Dark Oak Planks (Fuchsia City with custom colouring)
+
+Green Clay (Hardened Clay with colour from Viridian City)
+
+All tulips (Viridian City with colour adjustments for pink, red and white)
+
+Oak Planks (Pokemon Fan Club)
+
+Double High Fern (Generic Shrubby Tree)
+
+Double High Grass (Berry Man's House in Cerulean City)
+
+Acacia Leaves (Safari Zone)
+
+Acacia Log (Inspiration from Safari Zone Area image tree)
+
+Big Oak Leaves (Berry Forest)
+
+Big Oak Log (Viridian Forest Area Image for inspiration)
+
+Houstonia (Flower from the desk inside Pokemon Centers)
+
+Fern (Generic Bush)
+
+Ladder (Generic Ladder)
+
+Plain Clay (Route 10)
+
+Birch Log (Custom)
+
+GUI Button (Standard speech bubble border)
+
+Jungle Log (Dodrio Berry Picking Mini-Game)
+
+Jungle Leaves (Dodrio Berry Picking Mini-Game)
+
+Jungle Planks (Fence in Dodrio Berry Picking Mini-Game)
+
+Spruce Leaves (Recolouring of Secondary Dodrio Berry Picking Mini-Game Scene leaves)
+
+Spruce Log (Recolouring of Secondary Dodrio Berry Picking Mini-Game Scene Tree Bark)
+
+Gold Block (Celadon Department Store floor recoloured to suit)
+
+Dandelion (Recoloured Celadon Gym flowers)
+
+Bed (Your home in Pallet Town)
+
+Hunger Icons (Repel. I know...why did I do that? No clue... But the hunger bar wears away quickly and so does the repel. So...you know.)
+
+Iron Ore (Custom)
+
+Coal Block (Custom)
+
+Coal Ore (Custom)
+
+Double Wide Chest (PokeMart Freezers(?) with liberty) Sorry about the lid being a bit transparent at the edges. But I had to do it...)
+
+Blue Wool (Custom Coloured Lime Wool with colours from Table Cloth in a house in Lavender Town with slight change of colour)
+
+Silver Clay (Hardened Clay with colour from Route 23)
+
+Lime Green Clay (Hardened Clay with colour from Route 25)
+
+Blue Clay (Hardened Clay with colour from Saffron City)
+
+Light Green [Lime] Wool (Saffron City)
+
+Oxeye Daisy (Saffron City)
+
+Potato Growth Stages (Producing in a crate on SS Anne Dock)
+
+Title Screen Text (Uhh...the Title Screen Text. Tried to do an animation but it doesn't work... *sad face*)
+
+Ice (Icefall Cave)
+
+Packed Ice (Icefall Cave)
+
+Snowy Dirt (Mashup of dirt and snow overflow found at Icefall Cave)
+
+Map Icons (Icons from the map in game)
+
+Fire (Move Effects)
+
+Raindrops (Move Effects - Like diamonds from the sky! :3)
+
+Raindrop Splashes (Move Effects)
+
+Breeding Love Heart (Move Effects)
+
+Magic Stars when using bone meal (Move Effects)
+
+Villager Angry Face (Move Effects)
+
+Music Note (Move Effects)
+
+Torch Flame (Move Effects)
+
+Smoke (Move Effects)
+
+Cobweb (Move Effects - Sorry, I had to make it 32x32)
+
+Drop of water that appear from under a block with water above (Move Effects)
+
+Villager Cross Icon (Move Effects)
+
+Torch (Custom)
+
+Experience Bar (Battle Scene)
+
+Inventory (Frame 7 and Trainer Card Kit)
+
+Hot Bar (Trainer Card Kit)
+
+Texture Pack Navigation Arrows (Bag)
+
+Sandstone (Tanoby Ruins - top was changed in colour to blend better)
+
+Smooth Sandstone (Custom but with colour extracted from Tanoby Ruins)
+
+Carved Sandstone (Custom but with inspiration and colours from Tanoby Ruins)
+
+Gold Ore (Custom)
+
+Lapis Ore (Custom)
+
+Diamond Ore (Custom)
+
+Emerald Ore (Custom)
+
+Beacon Beam (PokeBall)
+
+Cactus (Custom but with colours extracted from plant at Vermilion City)
+
+Black Clay (Hardened Clay with colour from Generic House)
+
+Yellow Wool (Custom Coloured Lime Wool with colours from Celadon Department Store)
+
+Cyan Wool (Custom Coloured Lime Wool with colours from Pokemon Fan Club)
+
+Orange Wool (Custom Coloured Lime Wool with colours from Rocket Game Center)
+
+Gray Clay (Hardened Clay with colour from Celadon Department Store)
+
+Pink Wool (Custom Coloured Lime Wool)
+
+Furnace (Cape Brink with modifications)
+
+Magenta Wool (Custom Coloured Lime Wool with colours from Celadon Department Store with slight colour changes)
+
+Silver Wool (Custom Coloured Lime Wool with colours from Celadon Department Store)
+
+Netherrack (Ember Spa)
+
+Sound Sand (Ember Spa)
+
+Cauldron (Vermillion City Gym)
+
+Red Sand (Recoloured Celadon City Gym Sand/Dirt)
+
+Beacon (Saffron City Gym)
+
+Red Stone Block (Fuchsia City Gym)
+
+Black Wool (Custom Coloured Lime Wool)
+
+Brown Wool (Custom Coloured Lime Wool)
+
+Gray Wool (Custom Coloured Lime Wool)
+
+Green Wool (Custom Coloured Lime Wool)
+
+White Wool (Custom Coloured Lime Wool)
+
+Wheat (Custom)
+
+Netherbrick (Pokemon Mansion Custom Coloured to blend better)
+
+Note Block (Pokemon Mansion with a lot of editing)
+
+Furnace (Power Plant)
+
+End Stone (Seafoam Island)
+
+Command Block (Silph Co)
+
+Dry and Wet Farmland (Custom)
+
+Cake (Custom)
+
+Coarse Dirt (A different type of dirt...can't remember where I got it from)
+
+Brewing Stand Base (Custom)
+
+Brewing Stand (Custom)
+
+Mycelium (Custom)
+
+Spruce Sapling (Custom)
+
+Jungle Sapling (Custom)
+
+All Potion Bottle Aspects, including splash and overlay (Custom)
+
+Redstone Ore (Custom)
+
+Moon (Move Effects)
+
+Podzol (Custom)
+
+Restone Dust (Custom)
+
+Quartz Chisled (Custom)
+
+Quartz Lined (Custom)
+
+Anvil (Custom)
+
+Trapdoor (Custom)
+
+Level (Custom)
+
+Obsidian (Pewter City Gym)
+
+Stained Glass (Custom but with plain glass as base)
+
+Carrots (Custom)
+
+Cacoa Pods (Custom)
+
+Daylight Detector (Pokemon Center with adjustments)
+
+Dispenser (Custom)
+
+Dropper (Custom)
+
+Paeonia Double High (Custom)
+
+Rose Bush Double High (Custom)
+
+Dragon Egg (Custom)
+
+All the rails (Custom but using colours from all the respective elements)
+
+Sun Flower (Custom)
+
+Syringa (Custom)
+
+Enchanting Table (A mashup using obsidian, generic doormat wool and diamond block)
+
+Lava Flow (Water Flow but with colour change. FireRed/Leaf Green has no lava in it...)
+
+End Frame Eye (Custom)
+
+End Portal (Custom design but used the endstone which is a texture from the game and the extra components used colours from the floor of the Pewter City museum)
+
+Snow Falling Particles (Custom)
+
+Sun (Move Effects)
+
+Piston Inner (Dotted Hole)
+
+Blue Orchid (Custom)
+
+Flower Pot (Viridian City)
+
+Iron Trapdoor (Viridian City)
+
+Hardened Clay (Altering Cave)
+
+Hopper (Bills House)
+
+Lava Still (Water Still but with colour change. FireRed/Leaf Green has no lava in it...)
+
+Redstone Torch (Custom)
+
+Red Mushroom (Items)
+
+Brown Mushroom (Recoloured small mushroom item)
+
+Red Mushroom Block (Custom)
+
+Mushroom Stem Block (Custom)
+
+Brown Mushroom Block (Custom)
+
+Allium (Custom)
+
+Glowstone (Custom. There is nothing in game that works.......at all.)
+
+Hay Bales (Custom)
+
+Item Frame Background (Custom)
+
+Jukebox (Blue box from Bill's House)
+
+Pumpkin and Melon vines (Move Effects)
+
+Giant Mushroom Inside (Custom)
+
+Pumpkin (Custom but the top was based on a cushion in Pewter City museum)
+
+Pumpkin Blur (Custom)
+
+Piston (Custom)
+
+Redstone Lamp (Custom)
+
+Vines (Move Effects)
+
+Trip Wire Source (Custom)
+
+GUI Background (PC Interface)
+
+Melon (Custom)
+
+Portal Animation (Ball Toss Animation. I don't really like it but I can't think of anything else right now.)
+
+Slime (Custom)
+
+
+Granite (Recoloured stone)
+
+Diorite (Recoloured stone with added parts)
+
+Andesite (Recoloured stone with added parts)
+
+Prismarine Bricks (Viridian City Gym)
+
+Dark Prismarine (Silph Co. with darkened colours and extra shading)
+
+Prismarine Rough (Altering Cave)
+
+Reeds (Custom)
+
+TNT (Power Plant)
+
+Sponge Wet and Dry (Mt. Moon gravel recoloured)
+
+Polished Andesite, Granite and Diorite (Custom)
+
+Acacia Sapling (Custom)
+
+Dark Oak Sapling (Custom)
+
+Mob Spawner (Custom)
+
+Water Lily (Custom)
+
+Redstone Comparator (Custom)
+
+Redstone Repeater (Custom)
+
+Netherwart (Edited from produce on S.S Anne Dock)
+
+Sea Lantern (Custom)
+
+Crafting Table GUI (PC Interface)
+
+Dispenser GUI (PC Interface)
+
+Furnace GUI (PC Interface)
+
+Small and Large Chest GUI (PC Interface)
+
+Enchanting Table GUI (PC Interface)
+
+Mojang Startup Image (Pokemon Title Font)
+
+Hopper GUI (PC Interface)
+
+Horse GUI (PC Interface)
+
+Villager GUI (PC Interace)
+
+Boat (The "Pokemon" you surf on. Another Pokemon texture pack used this idea (kudos) but mine is extracted directly from the sprite you surf on in game.)
+
+Brewing Stand GUI (PC Interface)
+
+Anvil GUI (PC Interface)
+
+Beacon GUI (PC Interface)
+
+Entire Creative GUI (PC Interface)
+
+Map (Map)
+
+Single Trapped Chest (Single Chest with a chain around it)
+
+Double Trapped Chest (Double Chest with a chain around it)
+
+Ender Chest (Custom)
+
+Signal Bar GUI (Trading connection signal sprite)
+
+Wither Health Bar (Health Bar)
+
+Horse Jump Bar (Edited experience bar)
+
+Non-oak doors (Recoloured oak doors)
+
+Inverted Daylight Detector (Edited Daylight Detector)
+
+All the red sandstone (Recoloured sandstone)
+
+Christmas Single Chest (Recoloured single chest)
+
+Christmas Double Chest (Recoloured double chest)
+
+All the armor (Custom based on block colours)
+
+Ender Crystal (Custom)
+
+----------------------------------------------------------------------
+
+**Items**
+Some items are 32x32 in-game, but since all the terrain textures are 16x16, I had to custom downscale them to 16x format for consistancy.
+
+Bone (Bone)
+
+Emerald (Thunderstone?)
+
+Spawn Egg (Pokeball with adjustments to allow Minecraft to colour them decently...kind of)
+
+Charcoal (Charcoal?)
+
+Coal (Black Diamond?)
+
+Painting (Painting Frame with custom innner artwork)
+
+Item Frame (Painting Frame with bone)
+
+Sign (Based on normal Sign)
+
+Bed (Based on normal Bed)
+
+Hopper (Based on normal Hopper)
+
+All the doors (Based on their respective door texture)
+
+Flower Pot (Based on normal Flower Pot)
+
+Repeater (Based on normal Repeater)
+
+Comparator (Based on normal Comparator)
+
+Stick (Custom using colours from Oak Log and Oak Planks)
+
+Iron Ingot (Custom)
+
+Shears (Custom)
+
+Gold Ingot (Custom)
+
+All the buckets (Custom)
+
+Wheat (Custom)
+
+Redstone Dust (Custom)
+
+Egg (Egg)
+
+Fishing Rod and it's floater (Fishing Rod)
+
+Gunpowder (Custom)
+
+Diamond (Custom)
+
+Apple (Custom)
+
+Golden Apple (Custom)
+
+Arrow (Custom)
+
+Quartz (Custom)
+
+Wheat Seeds (Custom)
+
+Brick (Custom)
+
+Nether Brick (Custom)
+
+Blaze Powder (Custom)
+
+Barrier (Custom)
+
+Blaze Rod (Custom)
+
+Carrot (Custom)
+
+Golden Carrot (Recolouring of plain carrot)
+
+All mob skull icons (Based on their respective entity texture)
+
+All the diamond tools (Custom)
+
+All the gold tools (Custom)
+
+All the iron tools (Custom)
+
+Cooked and raw beef (Custom)
+
+Bowl (Custom)
+
+All book Types (Custom)
+
+Cauldron (Vermillion City Gym)
+
+Carrot on a stick (Custom)
+
+Bread (Custom)
+
+Clay Ball (Custom)
+
+Cookie (Custom)
+
+Black Dye (Custom)
+
+Blue Dye (Custom with parts taken from Lapis Ore)
+
+Brown Dye (Custom)
+
+Fire Ball (Custom)
+
+Nether Wart (Nether Wart texture)
+
+Cooked and Raw Chicken (Custom)
+
+All the diamond armour (Custom)
+
+All the empty armour slots (Custom)
+
+All the chainmail armour (Custom)
+
+All the iron armour (Custom)
+
+Ender Pearl (Custom)
+
+Ender Eye (Custom)
+
+Leather (Custom)
+
+Cake (Custom)
+
+All the dyes (Custom)
+
+Experience Bottle (Custom)
+
+Clock (Default Minecraft texture)
+
+Bone Meal/White Dye (Broken bone item)
+
+Feather (Custom with colours from chicken texture)
+
+Firework (Custom)
+
+Firework charge and overlay (Custom)
+
+Glowstone Dust (Custom)
+
+Ghast Tear (Custom)
+
+Gold Nugget (Custom)
+
+Lead (Custom)
+
+Leather Armour (Custom)
+
+All the gold armour (Custom)
+
+Mushroom Stew (Custom using the plain bowl item texture)
+
+Magma Cream (Custom)
+
+Map and Filled Map (Custom)
+
+Melon and Speckled Melon (Custom)
+
+Name Tag (Custom)
+
+Nether Star (Recoloured...something. I really have no idea what the item is in game, but the shape is credit to the original creators.)
+
+Paper (Custom)
+
+Ruby (Some red gem from in-game)
+
+Raw and Cooked Mutton (Custom)
+
+Raw and Cooked Porkchop (Custom)
+
+All potato incarnations (Custom)
+
+Prismarine Shard and Crystal (Custom)
+
+Quiver (Custom)
+
+Pumpking Pie (Custom)
+
+All the records (Custom)
+
+Reeds/Sugarcane (Custom)
+
+All the stone tools (Custom)
+
+All the wooden tools (Custom)
+
+Rotten Flesh (Custom)
+
+Slime Ball (Custom but with Pokeball as base)
+
+----------------------------------------------------------------------
+
+**Mobs**
+All the mobs are based on Pokemon found in Fire Red and Leaf Green. Pokemon past that point are not included. For the cows, if you comment saying "Oh you should have done a Miltank!" I'll pull out a standard "That's not how this texture pack works." response. I know there are better Pokemon I could use, but I stuck with those found in Fire Red/Leaf Green. Also, all the colours used and styles are taken from the in-game sprites. No external pictures used. So excuse any poor details. I have no idea what the Tauros' butt looks like and there is nothing I can do about it.
+
+
+Cow (Tauros)
+
+Mooshroom (Recoloured Tauros)
+
+Ghast (Tentacruel)
+
+Red Cat (Flareon)
+
+Blaze (Voltorb head only, blaze spinning rods were removed from the entity for the time being)
+
+Bat (Zubat)
+
+Pig (Slowpoke)
+
+Chicken (Pidgey)
+
+Creeper (Caterpie)
+
+Endermite (Custom because there was no Pokemon that would work for that mob)
+
+Steve (Base male trainer)
+
+Enderman (Haunter)
+
+Zombie (Custom sourced from Ned the Zombie skin I made)
+
+Spider (Parasect)
+
+Skeleton (Custom)
+
+Zombie Villager (Custom)
+
+----------------------------------------------------------------------
+_____
+\====\
+   ///
+  ///
+ ///__
+ \====\
+
+-Zitzabis

@@ -1,0 +1,15 @@
+Blocks:
+Dirth Path
+Iron Ore
+Gold Ore
+Diamond Ore
+Redstone Ore
+
+Fixes:
+Large fern
+Enchanting table model.
+Crafting table model.
+Redstone lamp lit/unlit model.
+Flower pot model.
+TNT model.
+Removes custom anvil models.
